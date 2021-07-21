@@ -1,0 +1,48 @@
+[
+{
+    "id":"1",
+    "department":"Eye Care",
+    "dept_id":"001"
+},
+{
+    "id":"2",
+    "department":"Gynecologist",
+    "dept_id":"002"
+},
+{
+    "id":"3",
+    "department":"Psychotherapist",
+    "dept_id":"003"
+},
+{
+    "id":"4",
+    "department":"Orthopedic",
+    "dept_id":"004"
+},
+{
+    "id":"5",
+    "department":"Dentist",
+    "dept_id":"005"
+},
+{
+    "id":"6",
+    "department":"Gastrologist",
+    "dept_id":"006"
+},
+{
+    "id":"7",
+    "department":"Urologist",
+    "dept_id":"007"
+},
+{
+    "id":"8",
+    "department":"Neurologist",
+    "dept_id":"008"
+},
+{
+    "id":"9",
+    "department":"physician",
+    "dept_id":"009"
+}
+
+]

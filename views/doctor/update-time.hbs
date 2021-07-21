@@ -1,0 +1,36 @@
+<div class="container">
+    <div class="row d-flex justify-content-center mt-5">
+        <div class="col-lg-6">
+            <div class="card shadow">
+                <div class="card-header">
+                    <h4>Update Time</h4>
+                </div>
+                <div class="card-body">
+                    <form action="/doctor/add-time" method="POST">
+                        <div class="form-group">
+                            <label for="textDate"></label>
+                            <input required type="date" class="form-control" name="date" id="textDate">
+                        </div>
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <label for="textFromTime">From</label>
+                                    <input required type="time" name="from" id="textFromDate" class="form-control">
+                                </div>
+                                <div class="col-lg-6">
+                                    <label for="textToTime">To</label>
+                                    <input required type="time" name="to" class="form-control" id="textToTime">
+                                </div>
+                            </div>
+                        </div>
+                            <button type="submit" class="btn btn-primary btn-block">Submit</button>
+
+
+                </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
